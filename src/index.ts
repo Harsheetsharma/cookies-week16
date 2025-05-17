@@ -43,6 +43,4 @@ app.post("/logout", (req, res) => {
     })
 });
 
-
-
 app.listen(3000);
